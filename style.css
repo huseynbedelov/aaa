@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img{
+    margin-left: 28%;
+}
+
+p{
+    margin-left: 30%;
+}
+
+.bb{
+    color: #b12704;
+}
+
+.aa{
+    background-color: #ebebeb;
+    margin-left: 30%;
+    height: 35vh;
+    padding-top: 40px;
+    margin-right: 200px;
+}
+
+.qq{
+    color: #853ae0;
+    cursor: pointer;
+}
+
+#abc{
+    color: #853ae0;
+    cursor: pointer;
+}
